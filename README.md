@@ -67,3 +67,4 @@ This is a basic implementation intended for learning and demonstration purposes.
 
 Built as a foundational Web3 project on Stellar using Soroban smart contracts.
 
+<img width="1830" height="861" alt="image" src="https://github.com/user-attachments/assets/0b43b118-7704-418b-9350-936ff692d45d" />
