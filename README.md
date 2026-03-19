@@ -33,9 +33,9 @@ All data is stored on-chain using Soroban's persistent storage.
 ---
 
 ## 🔗 Deployed Smart Contract Link
-
 Reputation System Contract:
-CCSF4ZPMSQRTQRLSQ5K65AFMCOZKDCWENVBIAB5TUO5DXUDBJ5UGKEOW
+
+[CCSF4ZPMSQRTQRLSQ5K65AFMCOZKDCWENVBIAB5TUO5DXUDBJ5UGKEOW](https://stellar.expert/explorer/testnet/contract/CCSF4ZPMSQRTQRLSQ5K65AFMCOZKDCWENVBIAB5TUO5DXUDBJ5UGKEOW)
 
 ---
 
